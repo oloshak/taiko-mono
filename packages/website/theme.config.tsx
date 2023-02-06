@@ -7,6 +7,7 @@ export default {
   chat: {
     link: "https://discord.gg/taikoxyz",
   },
+  darkMode: true,
   docsRepositoryBase:
     "https://github.com/taikoxyz/taiko-mono/blob/main/packages/website",
   editLink: {
@@ -46,5 +47,4 @@ export default {
       titleTemplate: "%s – Taiko",
     };
   },
-  darkMode: true,
 };
