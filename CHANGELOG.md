@@ -1,5 +1,20 @@
 # Changelog
 
+## [0.6.0](https://github.com/taikoxyz/taiko-mono/compare/taiko-mono-v0.5.0...taiko-mono-v0.6.0) (2023-02-07)
+
+
+### Features
+
+* add theme switch on website home page ([#13084](https://github.com/taikoxyz/taiko-mono/issues/13084)) ([34c5501](https://github.com/taikoxyz/taiko-mono/commit/34c550100331f5067609773b38d8e63c26ea3bac))
+* **protocol:** add more protocol/tokenomics tests ([#12988](https://github.com/taikoxyz/taiko-mono/issues/12988)) ([3a7523f](https://github.com/taikoxyz/taiko-mono/commit/3a7523f0008d58bee3e839bed37d62161aa39b36))
+
+
+### Bug Fixes
+
+* **bridge:** light theme toggle chain button ([#13089](https://github.com/taikoxyz/taiko-mono/issues/13089)) ([ed5a748](https://github.com/taikoxyz/taiko-mono/commit/ed5a7488395aef747bc2b9b27067ecca769991cc))
+* **protocol:** allow resolver to return zero address for EtherVault ([#13083](https://github.com/taikoxyz/taiko-mono/issues/13083)) ([cb34cf0](https://github.com/taikoxyz/taiko-mono/commit/cb34cf0e0fd182feb6eed4abf6ca9f6a2801e5f1))
+* **website:** fix link to the contract addresses ([#13104](https://github.com/taikoxyz/taiko-mono/issues/13104)) ([f7026ff](https://github.com/taikoxyz/taiko-mono/commit/f7026ff6a3247668bb88ca8758307d4cca1c264c))
+
 ## [0.5.0](https://github.com/taikoxyz/taiko-mono/compare/taiko-mono-v0.4.0...taiko-mono-v0.5.0) (2023-01-31)
 
 
